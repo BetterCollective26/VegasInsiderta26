@@ -1,0 +1,13 @@
+{
+  "example.html": {
+    "brand": "VegasInsider",
+    "table_title": "Table 1",
+    "file": "example.html",
+    "pages_url": "https://bettercollective26.github.io/VegasInsiderta26/example.html",
+    "github_repo_url": "https://github.com/bettercollective26/VegasInsiderta26",
+    "created_by": "gauthambc",
+    "created_at_utc": "2026-04-07 20:14:44 UTC",
+    "bundle_path": "bundles/example.html.json",
+    "has_bundle": true
+  }
+}
