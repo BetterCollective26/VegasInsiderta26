@@ -42,5 +42,16 @@
     "created_at_utc": "2026-04-17 09:21:41 UTC",
     "bundle_path": "bundles/1704261021.html.json",
     "has_bundle": true
+  },
+  "april160426.html": {
+    "brand": "VegasInsider",
+    "table_title": "Table 1",
+    "file": "april160426.html",
+    "pages_url": "https://bettercollective26.github.io/VegasInsiderta26/april160426.html",
+    "github_repo_url": "https://github.com/bettercollective26/VegasInsiderta26",
+    "created_by": "amybc",
+    "created_at_utc": "2026-04-17 09:46:43 UTC",
+    "bundle_path": "bundles/april160426.html.json",
+    "has_bundle": true
   }
 }
